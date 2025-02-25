@@ -1,2 +1,5 @@
-# seminario_de_quimica
-Faremos um site para um seminário de química, o surgimento do petróleo veio através dos dinossauros ou vida marinha? Apresentação das 2 teorias.
+## Como Visualizar 📌
+
+1. Cole este link no seu Google:
+   ```bash
+   https://site-cardapio-heros-burger2.vercel.app/
