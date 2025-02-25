@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Playfair Display', serif;
+  background-image: url(./assets/Petroleo.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    animation: fundomechendo 260s infinite linear;
+}
+
+
+@keyframes fundomechendo {
+  0% { background-position: 0% 0%; }
+  50% { background-position: 100% 100%; }
+  100% { background-position: 0% 0%; }
+}

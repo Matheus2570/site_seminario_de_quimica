@@ -1,0 +1,25 @@
+
+.header {
+    display: flex;
+    align-items: center;
+    gap: 7%;
+    justify-content: center;
+    padding: 1%;
+    background-color: #2a662aaf; 
+    color: white;
+    font-size: 1.1em;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+    border: 3px solid black;
+}
+
+
+.logo {
+    width: 10%;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 50%;
+}
+
+.logo:hover {
+    transform: scale(1.1);
+    box-shadow: 4px 8px 15px rgba(0, 0, 0, 0.5);
+}
