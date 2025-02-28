@@ -1,10 +1,10 @@
 .VidaMarinhaContainer {
   display: flex;
   align-items: center;
+  justify-content: space-around;
   flex-direction: row-reverse;
-  height: 40vh;
-  gap: 3%;
-  margin-top: 0%;
+  height: 110vh;
+  margin-top: 3%;   
   padding: 1.5%;
   background-color: #183d67ad;
   color: white;
@@ -13,17 +13,10 @@
 
 
 
-.VidaMarinhaCabecalho {
-  text-align: center;
-  width: 100%;
-  font-size: 1.7em;
-  margin-top: -1%;
-  font-weight: bold;
-  margin-bottom: 10px;
-}
+
 
 .VidaMarinhaImagem {
-  width: 16%;
+  width: 25%;
   border-radius: 5%;
   margin-left: 1%;
   transition: transform 0.3s ease;
@@ -42,14 +35,27 @@
 
 .VidaMarinhaBlocos {
   display: flex;
-  justify-content: space-around;
+  flex-direction: column;
 }
 
-.VidaMarinhaBloco1, .VidaMarinhaBloco2 {
+.VidaMarinhaBloco1 {
   border: 2px solid white;
-  font-size: 0.6em;
-  width: 40%;
-  height: 34vh;
+  font-size: 1.3em;
+
+  width: 50vw;
+  height: 50vh;
+  text-align: center;
+  padding: 2px;
+  background-color: rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+.VidaMarinhaBloco2{
+  border: 2px solid white;
+  font-size: 1.3em;
+
+  width: 50vw;
+  height: 50vh;
+  margin-top: 3%;
   text-align: center;
   padding: 2px;
   background-color: rgba(0, 0, 0, 0.15);

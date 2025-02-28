@@ -1,0 +1,40 @@
+
+.FontesConteiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #183d67ad;
+    color: white;
+    margin-top: 2%;
+    padding: 1%;
+    border-radius: 8px; 
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); 
+}
+
+.BlocoFontes ul {
+    list-style: none; 
+    display: flex; 
+    gap: 50px; 
+}
+
+.BlocoFontes li {
+    font-size: 1.3em;
+    transition: transform 0.2s ease-in-out, color 0.3s; 
+}
+
+.BlocoFontes li a {
+    text-decoration: none;
+    color: white;
+    padding: 7px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.BlocoFontes li:hover {
+    transform: scale(1.1); 
+}
+
+.BlocoFontes li a:hover {
+    background-color: #ffcc00; 
+    color: #183d67; 
+}

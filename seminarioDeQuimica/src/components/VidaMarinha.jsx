@@ -5,7 +5,6 @@ function Header(props) {
     <>
       <div className="VidaMarinhaContainer">
         <img src={props.img} className="VidaMarinhaImagem" alt={props.alt} />
-        <div className="VidaMarinhaCabecalho">
           <h1 className='VidaMarinhaTitulo'>{props.title}</h1>
           <div className="VidaMarinhaBlocos">
             <div className="VidaMarinhaBloco1">
@@ -18,7 +17,6 @@ function Header(props) {
             </div>
           </div>
         </div>
-      </div>
     </>
   )
 }
