@@ -44,7 +44,8 @@ function App() {
         instagram="https://www.instagram.com"
         facebook="https://www.facebook.com"
         twitter="https://www.twitter.com"
-        autor="Quimica Todo Dia 👌"
+        meninos="Matheus e Guilherme"
+        meninas="Agatha e Maria Duarte"
       />
 
     </>

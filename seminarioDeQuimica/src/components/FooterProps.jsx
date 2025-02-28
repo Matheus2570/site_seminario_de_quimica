@@ -24,7 +24,10 @@ function FooterProps(props) {
             <a href={props.twitter} >
               <i className='bx bxl-twitter'></i>
             </a>
-            <p>Site Feito Por: {props.autor}</p>
+            <p>Site Feito Por:</p>
+            <li>{props.meninos}</li>
+            <li>{props.meninas}</li>
+          
           </div>
         </div>
       </footer>
