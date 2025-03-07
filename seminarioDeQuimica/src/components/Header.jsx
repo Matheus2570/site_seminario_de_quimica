@@ -1,5 +1,5 @@
 import './Header.css'
-import logo1 from "../assets/Dinossauro.jpg";
+import logo1 from "../assets/beautiful-sunset-oil-field-with-pump-jack.jpg";
 
 
 function Header() {

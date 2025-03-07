@@ -15,9 +15,10 @@
 
 
 .logo {
-    width: 12%;
+    width: 20vw;
+height: 30vh;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    border-radius: 50%;
+    border-radius: 5%;
 }
 
 .logo:hover {
