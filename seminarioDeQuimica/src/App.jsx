@@ -19,8 +19,7 @@ function App() {
       <Header />
       <Introducao
         introducao="Introdução:"
-        texto="Esse é um texto gerado por IA para testar o tamanho do campo.
-As batatas são um dos alimentos mais consumidos no mundo, sendo versáteis e presentes em diversas receitas. Originárias da América do Sul, elas foram levadas para a Europa pelos colonizadores e rapidamente se tornaram um dos principais alimentos da dieta global. Podem ser preparadas de várias formas, como fritas, assadas, cozidas ou em purê, agradando a diferentes paladares. Além disso, as batatas são ricas em carboidratos, fornecendo energia, e também contêm fibras, vitaminas e minerais essenciais para a saúde. Seja em um prato simples ou em uma receita mais elaborada, as batatas sempre são uma excelente opção."
+        texto="O petróleo é um líquido viscoso, menos denso que a água e formado por uma mistura complexa de compostos orgânicos, principalmente hidrocarbonetos associados a pequenas quantidades de outras classes de compostos que contêm nitrogênio, oxigênio e enxofre."
       />
       <Dinossauro
         img={Dino}
