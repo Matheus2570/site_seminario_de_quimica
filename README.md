@@ -2,4 +2,4 @@
 
 1. Cole este link no seu Google:
    ```bash
-   https://seminario-de-quimica.vercel.app
+   https://site-seminario-de-quimica.vercel.app
