@@ -44,7 +44,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-    align-items: center;
+  align-items: center;
   border: 2px solid white;
   font-size: 1.3em;
   text-align: justify;
@@ -53,6 +53,9 @@
   padding: 2px;
   background-color: rgba(0, 0, 0, 0.15);
   transition: transform 0.3s ease, background-color 0.3s ease;
+  p{
+    margin-left: -47%;
+  }
 }
 
 .arrumando{
