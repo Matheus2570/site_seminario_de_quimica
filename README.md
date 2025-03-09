@@ -17,8 +17,8 @@ Este projeto é um **site simples e interativo** desenvolvido para um seminário
 
 - `src/components/` → Contém os componentes reutilizáveis:
   - `Header.jsx` → Cabeçalho do site.
-  - `TeoriaBiogenica.jsx` → Explicação da teoria biogênica.
-  - `TeoriaAbiogenica.jsx` → Explicação da teoria abiogênica.
+  - `Dinossauro.jsx` → Explicação da teoria biogênica.
+  - `VidaMarinha.jsx` → Explicação da teoria abiogênica.
   - `Footer.jsx` → Rodapé do site.
 - `src/App.jsx` → Componente principal que renderiza toda a estrutura do site.
 - `src/styles/` → Pasta com os arquivos CSS para estilização.
