@@ -9,7 +9,7 @@ Este projeto é um **site simples e interativo** desenvolvido para um seminário
 ## 📌 Funcionalidades
 
 - **Página única** com introdução ao tema e explicação das duas teorias.
-- **Design Responsivo**, permitindo uma boa experiência em qualquer dispositivo.
+
 
 ---
 
@@ -34,6 +34,6 @@ Este projeto é um **site simples e interativo** desenvolvido para um seminário
 
 ## Como Visualizar 📌
 
-1. Cole este link no seu Google:
+1. Cole este link no seu Google: Lembrete, veja em 1900 x 1080, não foi feito a responsividade por ser algo simples para apresentação em sala de aula.
    ```bash
    https://site-seminario-de-quimica.vercel.app
